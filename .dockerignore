@@ -27,7 +27,6 @@ README.md
 .env
 .git
 bootstrap/cache/*
-public/dist/*
 storage/app/*
 storage/framework/cache/*
 storage/framework/sessions/*
