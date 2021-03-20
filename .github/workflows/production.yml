@@ -1,4 +1,4 @@
-name: Jetpay API CI
+name: Cachet Deploy
 
 on:
   push:
